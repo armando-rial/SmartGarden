@@ -1,14 +1,9 @@
 # SmartGarden
 Universidade: SENAC/RS
-
 Cadeira: Projeto de Desenvolvimento II
-
 Ano: 2025/2
-
 Projeto: SmartGarden
-
 Aluno: Armando Rial Michalski
-
 Professor: Luciano Zanuz
 
 
